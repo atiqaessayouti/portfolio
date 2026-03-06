@@ -13,15 +13,15 @@ Le site présente mon profil, mes compétences techniques, ainsi que les différ
 - **Design Adaptatif (Responsive)** : Le site est conçu pour s'adapter automatiquement aux différentes tailles d'écran, y compris les appareils mobiles.
 
 ## Technologies Utilisées
-[cite_start]Ce projet a été développé en utilisant uniquement les technologies web standard suivantes, conformément aux exigences[cite: 2]:
-- [cite_start]**HTML5** : Pour la structure sémantique et le contenu du site[cite: 3].
-- [cite_start]**CSS3** : Pour la mise en forme, le design et le responsive design[cite: 3].
+Ce projet a été développé en utilisant uniquement les technologies web standard suivantes, conformément aux exigences[cite: 2]:
+- **HTML5** : Pour la structure sémantique et le contenu du site.
+- **CSS3** : Pour la mise en forme, le design et le responsive design.
 
 ## Exigences Techniques Remplies
 Ce portfolio respecte les contraintes techniques suivantes définies dans le cahier des charges :
-- [cite_start]**Mise en page moderne** : L'utilisation de **Flexbox** a été privilégiée pour assurer une structure organisée, des alignements propres et des espacements harmonieux[cite: 5].
-- [cite_start]**Design Cohérent** : Le site arbore une palette de couleurs sobres et cohérentes (2 à 3 couleurs principales maximum) avec une typographie lisible[cite: 6].
-- [cite_start]**Responsive Design** : Le site est entièrement responsive et intègre au minimum une **media query** pour garantir un affichage optimal sur les terminaux mobiles[cite: 7, 11].
+- **Mise en page moderne** : L'utilisation de **Flexbox** a été privilégiée pour assurer une structure organisée, des alignements propres et des espacements harmonieux[.
+- **Design Cohérent** : Le site arbore une palette de couleurs sobres et cohérentes (2 à 3 couleurs principales maximum) avec une typographie lisible.
+- **Responsive Design** : Le site est entièrement responsive et intègre au minimum une **media query** pour garantir un affichage optimal sur les terminaux mobiles.
 
 ## Structure du Repository
 - `index.html` : Fichier principal contenant le code HTML du portfolio.
